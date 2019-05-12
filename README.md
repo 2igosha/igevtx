@@ -1,10 +1,10 @@
 # igevtx
-Windows EVTX file format parser: an experiment in Go
+**Windows EVTX file format parser: an experiment in Go**
 
-Sources: 
+## Sources: 
 go get github.com/2igosha/igevtx/dump_evtx
 
-Usage:
+## Usage:
 dump_evtx list_of_evtx_filenames
 
 The parser is wrapped in a package and can be used with a callback function:
