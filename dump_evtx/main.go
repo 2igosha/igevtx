@@ -4,7 +4,7 @@
 package main
 
 import (
-	"igevtx"
+	"github.com/2igosha/igevtx/igevtx"
 	"fmt"
 	"bufio"
 	"os"
