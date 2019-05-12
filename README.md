@@ -9,7 +9,8 @@ dump_evtx list_of_evtx_filenames
 
 The parser is wrapped in a package and can be used with a callback function:
 
-```import (
+```go
+import (
 	"github.com/2igosha/igevtx/igevtx"
 	...
 	)
